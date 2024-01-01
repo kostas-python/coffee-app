@@ -1,0 +1,112 @@
+.navbar {
+    width: 100%;
+    height: 150px;
+    background-color: #121619;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .navbar .leftSide {
+    flex: 10%;
+    height: 67%;
+    display: flex;
+    align-items: center;
+    padding-left: 0px;
+  }
+  
+  .navbar .leftSide img {
+    width: 300px;
+    height: 200px;
+    margin-left: 0;
+    margin-top:50px;
+  }
+  
+  .navbar .rightSide {
+    flex: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 1300px;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+  }
+  
+  .navbar .rightSide button {
+    background-color: white;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+ .navbar .rightSide span {
+    font-size: 20px;
+    height: 30px;
+    color: white;
+  }
+  
+  .navbar #open {
+    padding-left: 0px;
+  }
+  .navbar #open img {
+    display: none;
+  }
+  
+  .navbar #close img {
+    display: inherit;
+  }
+  
+  .navbar #open .hiddenLinks {
+    display: inherit;
+    margin-left: 30px;
+  }
+  
+  .navbar #close .hiddenLinks {
+    display: none;
+  }
+  
+  .navbar #open a {
+    width: 70px;
+    margin: 0px;
+  }
+
+/* We add media to fit in smaller screns */
+
+  @media only screen and (min-width: 1024px) {
+    .navbar .rightSide a {
+      width: 40px;
+    }
+    .navbar .leftSide {
+      padding-left: 40px;
+      width: 40px;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .navbar .rightSide a {
+      display: none;
+    }
+  
+    .navbar .rightSide {
+      justify-content: flex-end;
+      padding-right: 40px;
+    }
+  
+    .navbar .rightSide button {
+      display: inherit;
+    }
+  }
+  
+  @media only screen and (min-width: 20px) {
+    .navbar .rightSide button {
+      display: none;
+    }
+  
+    .hiddenLinks {
+      display: none;
+    }
+  }
