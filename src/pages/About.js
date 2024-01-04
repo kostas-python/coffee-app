@@ -23,7 +23,7 @@ function About() {
           officiis modi at sunt excepturi expedita sint? Sed quibusdam
           recusandae alias error harum maxime adipisci amet laborum.
           Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit...
+          cumque velit
         </p>
       </div>
     </div>
