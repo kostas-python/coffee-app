@@ -20,7 +20,7 @@ function About() {
           officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
           nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
           error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? 
+          officiis modi at sunt excepturi expedita sint???
         </p>
       </div>
     </div>
