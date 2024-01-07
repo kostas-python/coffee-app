@@ -10,7 +10,7 @@ function Home() {
       style= {{ backgroundImage: `url(${BannerImage})`}}
       >
       <h1> Cityzen</h1>
-      <p>coffe for you</p>
+      <p>coffee for you</p>
       <Link to="/menu">
         <button> Order now </button>
       </Link>
