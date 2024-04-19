@@ -11,16 +11,12 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint???
+          Welcome to Pizzeria! We are passionate about serving delicious, handcrafted pizzas made with the finest ingredients. 
+        Our story began with a love for authentic Italian flavors and a vision to create a warm, inviting space where friends 
+        and families can gather to enjoy great food and good company. At [Pizzeria Name], we take pride in our commitment to quality, from our freshly made dough to our c
+          arefully selected toppings and savory sauces. Whether you're craving a classic Margherita pizza or a unique specialty pie, our menu offers a variety of options to satisfy your appetite. 
+            We strive to provide exceptional service and a memorable dining experience for every guest who walks through our doors. 
+            Thank you for choosing [Pizzeria Name], and we look forward to sharing our passion for great pizza with you.
         </p>
       </div>
     </div>
